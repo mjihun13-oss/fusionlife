@@ -1,0 +1,20 @@
+# FusionLife 설정 (명령어는 없고, 필요할 때만 수정하세요)
+
+# 씨앗 상점: diamonds개를 내면 씨앗 amount개를 살 수 있어요.
+seed-shop:
+  tomato:     { diamonds: 1, amount: 6 }
+  corn:       { diamonds: 1, amount: 6 }
+  rice:       { diamonds: 1, amount: 8 }
+  lettuce:    { diamonds: 1, amount: 8 }
+  pepper:     { diamonds: 1, amount: 5 }
+  onion:      { diamonds: 1, amount: 6 }
+  garlic:     { diamonds: 1, amount: 5 }
+  strawberry: { diamonds: 1, amount: 4 }
+  cabbage:    { diamonds: 1, amount: 6 }
+  grape:      { diamonds: 1, amount: 3 }
+
+# 리소스팩 자동 전송 (url을 비워두면 전송 안 함)
+resource-pack:
+  url: ""
+  sha1: ""
+  required: false

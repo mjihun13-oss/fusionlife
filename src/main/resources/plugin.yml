@@ -1,0 +1,5 @@
+name: FusionLife
+version: ${project.version}
+main: kr.fusion.FusionLife
+api-version: '1.21'
+description: 농사 + 낚시 + 요리 + 산업 융합 플러그인 (명령어 없음, 설치 즉시 작동)
